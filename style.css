@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    display: grid;
+    column-gap: max(2vw, 10px);
+}
+
+#lefty {
+    grid-column: 1;
+    width: 24vw;
+}
+
+#centry {
+    grid-column: 2;
+    width: 50vw;
+}
+
+#righty {
+    grid-column: 3;
+    width: 24vw;
+}
