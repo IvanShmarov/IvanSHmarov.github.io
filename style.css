@@ -6,7 +6,7 @@ body {
 
 #lefty {
     grid-column: 1;
-    width: 24vw;
+    width: 23vw;
 }
 
 #centry {
@@ -16,5 +16,5 @@ body {
 
 #righty {
     grid-column: 3;
-    width: 24vw;
+    width: 23vw;
 }
