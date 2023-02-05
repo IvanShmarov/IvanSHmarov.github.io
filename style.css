@@ -1,20 +1,23 @@
 body {
-    margin: 0;
+    background-image: url("Water_Color.jpg");
     display: grid;
-    column-gap: max(2vw, 10px);
+    column-gap: 0;
+
+    margin: 0;
 }
 
+
 #lefty {
-    grid-column: 1;
-    width: 23vw;
+    grid-column: 1 / 2;
+    width: 25vw;
 }
 
 #centry {
-    grid-column: 2;
+    grid-column: 2 / 3;
     width: 50vw;
 }
 
 #righty {
-    grid-column: 3;
-    width: 23vw;
+    grid-column: 3 / 4;
+    width: 25vw;
 }
