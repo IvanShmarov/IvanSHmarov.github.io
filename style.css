@@ -1,5 +1,6 @@
 body {
     background-image: url("bck.png");
+    image-rendering: pixelated;
     display: grid;
     column-gap: 0;
     margin: 0;
