@@ -1,6 +1,6 @@
 body {
     background-image: url("bck.png");
-    background-size:  contain;
+    background-size:  calc(100% / 3);
     image-rendering:  pixelated;
     display:          grid;
     column-gap:       0;
