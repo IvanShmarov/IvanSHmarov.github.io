@@ -18,3 +18,9 @@ body {
     width: calc(100% - 15em);
     height: 100%;
 }
+
+#navigation > a {
+    display: block;
+    margin: 5px;
+    background-color: rgb(211, 234, 255);
+}
